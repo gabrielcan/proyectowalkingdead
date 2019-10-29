@@ -4,9 +4,9 @@
  ul{
      list-style-type: none;
  }
-.cont_img{
-    /* width: 15%;  las propiedad col anulo este cambio*/
-}
+/* .cont_img{
+    width: 15%;  las propiedad col anulo este cambio
+} */
 .myheader{
     background-image: url(/img/fondo_header.png);
     background-repeat: repeat;
